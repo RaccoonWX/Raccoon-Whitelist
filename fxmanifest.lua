@@ -1,11 +1,11 @@
 fx_version "cerulean"
-game "gta5"
+games { 'gta5' }
 
 -- Define the resource metadata
 name "Raccoon-Whitelist"
 description "A simple whitelist script that utilizes Badger's Discord API"
 author "TheRaccoon#1023 (PeEcEeChIP)"
-version "v0.1.1"
+version "v0.1.1.1"
 
 
 server_script "settings.lua"
